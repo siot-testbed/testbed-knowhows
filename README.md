@@ -13,7 +13,7 @@
   - 準備中
 
 - テストベッド活用研究会 https://testbed.nict.go.jp/bunkakai/ict-tb_katsuyou.html
-  - 準備中
+  - [第5回のテストベッド分科会での活用研究会システムの活用事例](https://testbed.nict.go.jp/bunkakai/pdf/bunkakai-05-04.pdf)
 
 ### 参考リンク
 - [スマートIoT推進フォーラム技術戦略検討部会テストベッド分科会](https://testbed.nict.go.jp/bunkakai/index.html)
