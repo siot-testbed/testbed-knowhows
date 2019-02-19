@@ -5,7 +5,7 @@
 
 ## テストベッド利用に関するマニュアル/ノウハウ
 
-- キャラバンテストベッド  https://github.com/tohrukondo/iotcaravantestbed
+- キャラバンテストベッド  https://testbed.nict.go.jp/bunkakai/caravan-tb.html
   - [NerveNetマニュアル](https://github.com/tohrukondo/iotcaravantestbed/blob/master/nervetrial.md)
   - [LPWA(LoRaWAN)計測機マニュアル](https://github.com/tohrukondo/iotcaravantestbed/blob/master/loratrial.md)
   
