@@ -10,7 +10,8 @@
   - [LPWA(LoRaWAN)計測機マニュアル](https://github.com/tohrukondo/iotcaravantestbed/blob/master/loratrial.md)
   
 - LPWA テストベッド http://www.yrp.co.jp/LPWA/index.html
-  - 準備中
+  - 現在以下の機器/プロトコルが使えます
+  - Sigfox, LoRa, ELTRES, WiSun
 
 - テストベッド活用研究会 https://testbed.nict.go.jp/bunkakai/ict-tb_katsuyou.html
   - [第5回のテストベッド分科会での活用研究会システムの活用事例](https://testbed.nict.go.jp/bunkakai/pdf/bunkakai-05-04.pdf)
